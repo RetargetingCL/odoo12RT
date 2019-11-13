@@ -1,0 +1,4 @@
+[submodule "RetargetingCL/hr_payroll_cancel"]
+	path = RetargetingCL/hr_payroll_cancel
+	url = git@github.com:RetargetingCL/hr_payroll_cancel.git
+	branch = rt_master
